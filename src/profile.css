@@ -1,0 +1,13 @@
+.profile-container {
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .profile-avatar {
+    width: 100%;
+    height: auto;
+  }
+  
+  .profile-details {
+    padding-left: 20px;
+  }

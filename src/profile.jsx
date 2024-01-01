@@ -1,5 +1,6 @@
 import React from 'react';
 import { Paper, Typography, Grid, Avatar } from '@material-ui/core';
+import './Profile.css';
 
 function PregnancyProfile() {
   return (
